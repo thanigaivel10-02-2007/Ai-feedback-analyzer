@@ -2,6 +2,9 @@
 
 > Turn raw user feedback into meaningful, actionable insights in seconds. SentiQ is an intelligent, high-performance customer feedback analytics suite running **100% entirely in your browser**.
 
+🔗 **Live Demo**: [https://sentiqq.cv](https://sentiqq.cv)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-sentiqq.cv-6366f1?logo=google-chrome&logoColor=white)](https://sentiqq.cv)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![JavaScript](https://img.shields.io/badge/Vanilla-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Client--Side-green)](#privacy--security)
