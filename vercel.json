@@ -1,0 +1,16 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.sentiqq.cv" }],
+      "destination": "https://sentiqq.cv/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "sentiq-ten.vercel.app" }],
+      "destination": "https://sentiqq.cv/:path*",
+      "permanent": true
+    }
+  ]
+}

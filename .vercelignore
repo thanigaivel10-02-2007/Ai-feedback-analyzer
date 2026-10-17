@@ -1,0 +1,6 @@
+.claude
+.git
+*.pptx
+.DS_Store
+.env*
+.vercel
